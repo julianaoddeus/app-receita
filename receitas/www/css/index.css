@@ -1,0 +1,30 @@
+@import  'material-icons/icont/material-icons.css' ;
+
+.nav-img {
+    width: 20%;
+    display: block;
+    margin: 0 auto;
+}
+.card-image {
+    margin-top: 20px;
+    
+}
+
+.collection-itens {
+    padding-top: 20px;
+}
+
+.receitas, .principal {
+    margin-top:  50px;
+}
+
+
+a {
+    text-decoration: none;
+    color: rgb(58, 58, 58);
+}
+
+.collection-itens {
+    color: #e39d71;
+}
+
